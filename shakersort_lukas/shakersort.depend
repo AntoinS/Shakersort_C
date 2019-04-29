@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1554930084 source:f:\schule___\bko\fächer\prog\shakersort\sort.c
+	"sort.h"
+	"swap.h"
+
+1556472158 
+
+1554930052 f:\schule___\bko\fächer\prog\shakersort\sort.h
+
+1554928807 f:\schule___\bko\fächer\prog\shakersort\swap.h
+
+1554928836 source:f:\schule___\bko\fächer\prog\shakersort\swap.c
+	"swap.h"
+
+1554930373 source:f:\schule___\bko\fächer\prog\shakersort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"swap.h"
+	"sort.h"
+
+1556476134 source:a:\schule___\bko\fächer\prog\shakersort\sort.c
+	"sort.h"
+	"swap.h"
+
+1554930052 a:\schule___\bko\fächer\prog\shakersort\sort.h
+
+1554928807 a:\schule___\bko\fächer\prog\shakersort\swap.h
+
+1554928836 source:a:\schule___\bko\fächer\prog\shakersort\swap.c
+	"swap.h"
+
+1556472158 source:a:\schule___\bko\fächer\prog\shakersort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"swap.h"
+	"sort.h"
+
+1556544806 source:/home/lfleper/Dokumente/C/Shakersort_C/shakersort/main.c
+	<stdio.h>
+	<stdlib.h>
+	"sort.h"
+
+1556540978 /home/lfleper/Dokumente/C/Shakersort_C/shakersort/swap.h
+
+1556543640 /home/lfleper/Dokumente/C/Shakersort_C/shakersort/sort.h
+
+1556541016 source:/home/lfleper/Dokumente/C/Shakersort_C/shakersort/swap.c
+	"swap.h"
+
+1556544962 source:/home/lfleper/Dokumente/C/Shakersort_C/shakersort/sort.c
+	"sort.h"
+	"swap.h"
+
